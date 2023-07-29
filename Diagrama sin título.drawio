@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-07-29T15:44:54.905Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.5" etag="zZdRHh2hmX8oWmmLIwqQ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-29T16:47:24.549Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="AZDyaOyrjzbuT2V2JkkN" version="21.6.5" type="github">
   <diagram name="Página-1" id="kd1Lk_YafslDGqS9jbgT">
-    <mxGraphModel>
+    <mxGraphModel dx="984" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="haOtunUd5aEKDYaEN6PA-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="haOtunUd5aEKDYaEN6PA-1" target="haOtunUd5aEKDYaEN6PA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="haOtunUd5aEKDYaEN6PA-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="haOtunUd5aEKDYaEN6PA-2" value="Ingresar(NUM1) ALTURA" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="haOtunUd5aEKDYaEN6PA-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="haOtunUd5aEKDYaEN6PA-5" target="haOtunUd5aEKDYaEN6PA-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="haOtunUd5aEKDYaEN6PA-5" value="Ingresar(NUM2) BASE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="haOtunUd5aEKDYaEN6PA-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="haOtunUd5aEKDYaEN6PA-9" target="haOtunUd5aEKDYaEN6PA-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="haOtunUd5aEKDYaEN6PA-9" value="R=(NUM1xNUM2)/2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="haOtunUd5aEKDYaEN6PA-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="haOtunUd5aEKDYaEN6PA-11" target="haOtunUd5aEKDYaEN6PA-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="haOtunUd5aEKDYaEN6PA-11" value="Imprimir &quot;R&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="haOtunUd5aEKDYaEN6PA-13" value="Final" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="374" y="505" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
